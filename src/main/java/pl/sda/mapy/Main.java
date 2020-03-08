@@ -13,7 +13,7 @@ public class Main {
 
         Generyka<Integer> generyka2 = new Generyka<Integer>(23222);
 
-        System.out.println(generyka.getField());
+        System.out.println(generyka2.getField());
 
 
 
